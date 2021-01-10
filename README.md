@@ -1,1 +1,1 @@
-# Comparison-between-Logistic-Regression-vs-Desicion-Trees-using-Scikit-learn
+# Comparison-between-Logistic-Regression-vs-Decision-Trees-using-Scikit-learn
